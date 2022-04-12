@@ -1,3 +1,10 @@
+#add files
+nlp.py
+input.txt
+bacon_counter.py
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
