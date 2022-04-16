@@ -1,7 +1,7 @@
 # Amazon Vine Analysis
 
 ## Overview of the analysis
-Amazon Vine Analysis project is to analyze Amazon reviews.
+Amazon Vine Analysis project analyzes Amazon reviews, which are written by members of the paid Amazon Vine program. We analyze the reviews of special product: software, use PySpark to perform the ETL process and transform then dataset, connect to an AWS RDS instance, and load the transformed data into pgAdmin, use PySpark to determin if there is any bias toward favorable reviews from Vine members in your dataset.
 
 ## Results
 Using bulleted lists and images of DataFrames as support, address the following questions:
