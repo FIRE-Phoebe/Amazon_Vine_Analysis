@@ -22,7 +22,7 @@ Reference:
 ### Resources
 Codes for determination of analysis:
 
-<img src='images/determination-code.PNG' width=600 height=300>
+<img src='images/determination_code.PNG' width=600 height=300>
 
 Exhibit 1: 
 - Software review table:
