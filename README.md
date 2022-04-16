@@ -1,7 +1,7 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 
 ## Overview of the analysis
-Explain the purpose of this analysis.
+Amazon Vine Analysis project is to analyze Amazon reviews.
 
 ## Results
 Using bulleted lists and images of DataFrames as support, address the following questions:
