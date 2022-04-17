@@ -1,7 +1,7 @@
 # Amazon Vine Analysis
 
 ## Overview of the analysis
-Amazon Vine Analysis project analyzes Amazon reviews that are written by members of the paid/unpaid Amazon Vine program. We perform the ETL process by using PySpark, AWS RDS instance, and pgAdmin to analyze the reviews of special product: software. Our goal is to determin if there is any bias toward favorable reviews from Vine members in our dataset.
+Amazon Vine Analysis project analyzes Amazon reviews that are written by members of the paid/unpaid Amazon Vine program. We perform the ETL process by using PySpark, AWS RDS instance, and pgAdmin to analyze the reviews of special product: software. Our goal is to determine if there is any bias toward favorable reviews from Vine members in our dataset.
 
 ## Results
 According to our analysis, there are total 17,762 reviews. 
