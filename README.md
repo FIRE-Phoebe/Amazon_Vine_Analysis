@@ -22,7 +22,7 @@ Reference:
 ### Resources
 Codes for determination of analysis:
 
-<img src='images/determination_code.PNG' width=600 height=300>
+<img src='images/determination_code.PNG' width=700 height=400>
 
 Exhibit 1: 
 - Software review table:
@@ -41,4 +41,4 @@ Exhibit 4:
 https://github.com/FIRE-Phoebe/Amazon_Vine_Analysis/blob/2f8f8fc27d09ade588386386f8bec4ba239e66b4/images/vine_table.PNG
 
 ## Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Based on the result, it indicates that there is a positivity bias for reviews in the Amazon Vine program. As we compare the percentage of 5 stars reviews, all Vine for the software reviews has 41.13% and non-Vine reviews has only 29.43%. If there's no bias for reviews, we will expect the percentage of 5 stars reviews for both Vine(paid) and non-Vine program(unpaid) are roughly the same. In this case, further studies for bias reviews examination could use statistical distribution analysis that apply to the dataset. Though calculate the mean, standard deviation and mode, significate level, statistical differnece and look at the distribution tendency to determine any bias towards Amazon Vine reviews.
